@@ -1,4 +1,4 @@
-# Multisensor Online Transfer Learning for 3D LiDAR-based Human Classification with a Mobile Robot #
+# Multisensor Online Transfer Learning for 3D LiDAR-based Human Detection with a Mobile Robot #
 
 [![Build Status](https://travis-ci.org/yzrobot/online_learning.svg?branch=master)](https://travis-ci.org/yzrobot/online_learning)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/85d6393df92749238fb740e173be5bfa)](https://www.codacy.com/app/yzrobot/online_learning?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=yzrobot/online_learning&amp;utm_campaign=Badge_Grade)
@@ -17,11 +17,10 @@ $ catkin_make
 ## Citation ##
 If you are considering using this code, please reference the following:
 ```
-@inproceedings{yz17icra,
-author = {Zhi Yan and Tom Duckett and Nicola Bellotto},
-title = {Multisensor Online Transfer Learning for 3D LiDAR-based Human Classification with a Mobile Robot},
-booktitle = {In Proceedings of the 2018 IEEE International Conference on Robotics and Automation (ICRA)},
-year = {2017},
-note= {submitted}
+@article{yan2018multisensor,
+  title={Multisensor Online Transfer Learning for 3D LiDAR-based Human Detection with a Mobile Robot},
+  author={Yan, Zhi and Sun, Li and Duckett, Tom and Bellotto, Nicola},
+  journal={arXiv preprint arXiv:1801.04137},
+  year={2018}
 }
 ```
